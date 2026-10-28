@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/vinicius-silva20/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva20/)
 
 </div>
 
